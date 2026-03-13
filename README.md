@@ -9,7 +9,7 @@
     <h1>Bienvenue sur mon portofolio</h1>
     <p>
         je m'appelle jeancy. je suis passionner par le web
-        est ceci est mon portofolio
+        et ceci est mon portofolio
     </p>
     <img src="image/jeancy.jpg" width="90" height="100" alt="jeancy">
 
